@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5290d758f60e70942b9190b637a7660a, type: 3}
-  m_Name: StartingState
+  m_Name: Room 1
   m_EditorClassIdentifier: 
-  storyText: "You sit in a locked cell. You've been here for days. \r\nThe guard makes
-    his way to lunch about this time.\r\n\r\n1. Taunt the guard. \r\n2. Sit and wait."
+  storyText: 
+  nextStates: []

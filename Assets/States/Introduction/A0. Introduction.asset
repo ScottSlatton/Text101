@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5290d758f60e70942b9190b637a7660a, type: 3}
+  m_Name: A0. Introduction
+  m_EditorClassIdentifier: 
+  storyText: 'You find yourself in a locked cell aboard a military space installation.
+    Your star ship has been impounded with no reason given. Your blasters have been
+    confiscated and you can''t be certain how long you''ve been here.
+
+
+    Press 1, 2, or 3 to make decisions.
+
+
+    At any point press the Escape key to quit the game.
+
+
+    Welcome to Space Escape.
+
+
+'
+  nextStates:
+  - {fileID: 11400000, guid: d4abe8c023896674da15d9d80ee4c826, type: 2}
